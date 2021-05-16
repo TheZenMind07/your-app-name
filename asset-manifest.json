@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/thezenmind07//.github.io/your-app-name/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/thezenmind07//.github.io/your-app-name/static/js/main.cce93118.chunk.js",
-    "main.js.map": "/thezenmind07//.github.io/your-app-name/static/js/main.cce93118.chunk.js.map",
-    "runtime-main.js": "/thezenmind07//.github.io/your-app-name/static/js/runtime-main.311ea6f3.js",
-    "runtime-main.js.map": "/thezenmind07//.github.io/your-app-name/static/js/runtime-main.311ea6f3.js.map",
-    "static/js/2.feb201de.chunk.js": "/thezenmind07//.github.io/your-app-name/static/js/2.feb201de.chunk.js",
-    "static/js/2.feb201de.chunk.js.map": "/thezenmind07//.github.io/your-app-name/static/js/2.feb201de.chunk.js.map",
-    "static/js/3.e6354a3e.chunk.js": "/thezenmind07//.github.io/your-app-name/static/js/3.e6354a3e.chunk.js",
-    "static/js/3.e6354a3e.chunk.js.map": "/thezenmind07//.github.io/your-app-name/static/js/3.e6354a3e.chunk.js.map",
-    "index.html": "/thezenmind07//.github.io/your-app-name/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/thezenmind07//.github.io/your-app-name/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.feb201de.chunk.js.LICENSE.txt": "/thezenmind07//.github.io/your-app-name/static/js/2.feb201de.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/thezenmind07//.github.io/your-app-name/static/media/logo.6ce24c58.svg"
+    "main.css": "/your-app-name/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/your-app-name/static/js/main.cce93118.chunk.js",
+    "main.js.map": "/your-app-name/static/js/main.cce93118.chunk.js.map",
+    "runtime-main.js": "/your-app-name/static/js/runtime-main.4d8150b1.js",
+    "runtime-main.js.map": "/your-app-name/static/js/runtime-main.4d8150b1.js.map",
+    "static/js/2.feb201de.chunk.js": "/your-app-name/static/js/2.feb201de.chunk.js",
+    "static/js/2.feb201de.chunk.js.map": "/your-app-name/static/js/2.feb201de.chunk.js.map",
+    "static/js/3.e6354a3e.chunk.js": "/your-app-name/static/js/3.e6354a3e.chunk.js",
+    "static/js/3.e6354a3e.chunk.js.map": "/your-app-name/static/js/3.e6354a3e.chunk.js.map",
+    "index.html": "/your-app-name/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/your-app-name/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.feb201de.chunk.js.LICENSE.txt": "/your-app-name/static/js/2.feb201de.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/your-app-name/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.311ea6f3.js",
+    "static/js/runtime-main.4d8150b1.js",
     "static/js/2.feb201de.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.cce93118.chunk.js"
